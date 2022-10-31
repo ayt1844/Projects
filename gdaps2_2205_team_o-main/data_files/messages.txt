@@ -1,0 +1,7 @@
+Fire attacks deal the most damage, _but are the hardest to aim.
+Earth attacks have a chance to switch _targets and slow them down too.
+Void attacks deal no damage, instead _you teleport to where you click.
+The energy shield turns red when it _is about to break. Get out of there!
+Wind attacks move in the direction _that the player was facing when spawned.
+Flying enemies move in a pattern. _Study them carefully to predict their next move!
+Ground enemies have varying speeds, _use wind or earth attacks to slow them down!
